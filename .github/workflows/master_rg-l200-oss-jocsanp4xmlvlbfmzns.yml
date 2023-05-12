@@ -33,4 +33,3 @@ jobs:
           app-name: 'rg-l200-oss-jocsanp4xmlvlbfmzns'
           slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A7D4814245942D28B0F93E76EC15AEB }}
-          package: '.\\app.zip'
